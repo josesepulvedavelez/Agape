@@ -1,0 +1,227 @@
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.exe
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaComputo.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.Properties.Resources.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.exe
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMenuPrincipal.resources
+C:\Users\jsepulveda\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.exe
+C:\Users\jsepulveda\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmSede.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmInicio.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmLogin.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacion.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServicioTecnico.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaEquipo.resources
+C:\Users\jose sepulveda\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.exe
+C:\Users\jose sepulveda\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmRequicisionCompra.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.exe
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.exe
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaComputo.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaEquipo.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmInicio.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmLogin.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMenuPrincipal.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacion.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmRequicisionCompra.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmSede.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServicioTecnico.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.Properties.Resources.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.GenerateResource.Cache
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csprojResolveAssemblyReference.cache
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.exe
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.exe
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csprojResolveAssemblyReference.cache
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaComputo.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaEquipo.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmInicio.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmLogin.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMenuPrincipal.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacion.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmRequicisionCompra.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmSede.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServicioTecnico.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.Properties.Resources.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.GenerateResource.Cache
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacionHecha.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.ResolveComReference.cache
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.ResolveComReference.cache
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.exe
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.exe
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csprojResolveAssemblyReference.cache
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaComputo.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaEquipo.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmInicio.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmLogin.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMenuPrincipal.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacion.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacionHecha.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmRequicisionCompra.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmSede.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServicioTecnico.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.Properties.Resources.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.GenerateResource.Cache
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoPreventivo.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoCorrectivo.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoCorrectivo.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoPreventivo.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoCorrectivo.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoPreventivo.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoCorrectivo.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoPreventivo.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInforme.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInforme.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInsertar.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmmantenimientoEquipoActualizar.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmmantenimientoEquipoActualizar.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInforme.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInsertar.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInforme.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInsertar.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoActualizar.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaInsertar.resources
+C:\Users\sepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaActualizar.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoActualizar.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInsertar.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaActualizar.resources
+C:\Users\jsepulveda\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaInsertar.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Interop.LCC11.dll
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.ResolveComReference.cache
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.exe
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.pdb
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.exe
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.pdb
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaComputo.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaEquipo.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmInicio.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmLogin.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoActualizar.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoCorrectivo.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInsertar.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoPreventivo.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmmantenimientoEquipoActualizar.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoCorrectivo.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInforme.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInsertar.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoPreventivo.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInforme.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMenuPrincipal.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaActualizar.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaInsertar.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacion.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacionHecha.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmRequicisionCompra.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmSede.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServicioTecnico.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.Properties.Resources.resources
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Software\Carl ros\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.ResolveComReference.cache
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoActualizar.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoCorrectivo.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInsertar.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoPreventivo.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmmantenimientoEquipoActualizar.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoCorrectivo.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInforme.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInsertar.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoPreventivo.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInforme.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaActualizar.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaInsertar.resources
+C:\Users\E2CSPC02\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacionHecha.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.ResolveComReference.cache
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.exe
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.exe
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.pdb
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaComputo.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmInicio.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmLogin.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoActualizar.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoCorrectivo.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInsertar.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoPreventivo.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmmantenimientoEquipoActualizar.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoCorrectivo.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInforme.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInsertar.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoPreventivo.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInforme.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMenuPrincipal.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaActualizar.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaInsertar.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacion.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacionHecha.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmRequicisionCompra.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmSede.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServicioTecnico.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.Properties.Resources.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.GenerateResource.Cache
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaGenerica.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaEquipo.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoGenericoActualizar.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoGenericoInsertar.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServiciosTecnicosCorrectivos.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServiciosTecnicosPreventivos.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmIndicadorComputo.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmIndicadorInfraestructura.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmCheckListMantenimientoAire.resources
+C:\Users\sistemas\OneDrive\base datos\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmCheckListMantenimientoComputo.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Interop.LCC11.dll
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.csproj.ResolveComReference.cache
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.exe
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento Carl Ros.pdb
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.exe
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\bin\Debug\Mantenimiento Carl Ros.pdb
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmCheckListMantenimientoAire.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmCheckListMantenimientoComputo.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaComputo.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaEquipo.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmHojaVidaGenerica.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmIndicadorComputo.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmIndicadorInfraestructura.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmInicio.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmLogin.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoActualizar.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoCorrectivo.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInsertar.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoPreventivo.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmmantenimientoEquipoActualizar.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoCorrectivo.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInforme.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoInsertar.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoEquipoPreventivo.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoComputoInforme.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoGenericoActualizar.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMantenimientoGenericoInsertar.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServiciosTecnicosPreventivos.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmMenuPrincipal.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaActualizar.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmPiezaInsertar.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacion.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmProgramacionHecha.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmRequicisionCompra.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmSede.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServiciosTecnicosCorrectivos.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.FrmServicioTecnico.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\Mantenimiento_Carl_Ros.Properties.Resources.resources
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Software\Proyectos\Agape\Mantenimiento Carl Ros\obj\x86\Debug\GenerateResource.write.1.tlog

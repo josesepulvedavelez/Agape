@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7AA29867-9ED7-4737-BC33-13979B13314B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Agape</RootNamespace>
+    <AssemblyName>Agape</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConexionBase.cs" />
+    <Compile Include="ExportarExcel.cs" />
+    <Compile Include="FrmCheckListMantenimientoAire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCheckListMantenimientoAire.Designer.cs">
+      <DependentUpon>FrmCheckListMantenimientoAire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCheckListMantenimientoComputo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCheckListMantenimientoComputo.Designer.cs">
+      <DependentUpon>FrmCheckListMantenimientoComputo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHojaVidaComputo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHojaVidaComputo.Designer.cs">
+      <DependentUpon>FrmHojaVidaComputo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHojaVidaEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHojaVidaEquipo.Designer.cs">
+      <DependentUpon>FrmHojaVidaEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHojaVidaGenerica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHojaVidaGenerica.Designer.cs">
+      <DependentUpon>FrmHojaVidaGenerica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIndicadorComputo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIndicadorComputo.Designer.cs">
+      <DependentUpon>FrmIndicadorComputo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIndicadorEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIndicadorEquipo.Designer.cs">
+      <DependentUpon>FrmIndicadorEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoActualizar.Designer.cs">
+      <DependentUpon>FrmMantenimientoComputoActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoCorrectivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoCorrectivo.Designer.cs">
+      <DependentUpon>FrmMantenimientoComputoCorrectivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoInsertar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoInsertar.Designer.cs">
+      <DependentUpon>FrmMantenimientoComputoInsertar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoPreventivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoPreventivo.Designer.cs">
+      <DependentUpon>FrmMantenimientoComputoPreventivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmmantenimientoEquipoActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmmantenimientoEquipoActualizar.Designer.cs">
+      <DependentUpon>FrmmantenimientoEquipoActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoEquipoCorrectivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoEquipoCorrectivo.Designer.cs">
+      <DependentUpon>FrmMantenimientoEquipoCorrectivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoEquipoInforme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoEquipoInforme.Designer.cs">
+      <DependentUpon>FrmMantenimientoEquipoInforme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoEquipoInsertar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoEquipoInsertar.Designer.cs">
+      <DependentUpon>FrmMantenimientoEquipoInsertar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoEquipoPreventivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoEquipoPreventivo.Designer.cs">
+      <DependentUpon>FrmMantenimientoEquipoPreventivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoInforme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoComputoInforme.Designer.cs">
+      <DependentUpon>FrmMantenimientoComputoInforme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoGenericoActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoGenericoActualizar.Designer.cs">
+      <DependentUpon>FrmMantenimientoGenericoActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoGenericoInsertar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoGenericoInsertar.Designer.cs">
+      <DependentUpon>FrmMantenimientoGenericoInsertar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientosPreventivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientosPreventivos.Designer.cs">
+      <DependentUpon>FrmMantenimientosPreventivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuPrincipal.Designer.cs">
+      <DependentUpon>FrmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPiezaActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPiezaActualizar.Designer.cs">
+      <DependentUpon>FrmPiezaActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPiezaInsertar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPiezaInsertar.Designer.cs">
+      <DependentUpon>FrmPiezaInsertar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProgramacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProgramacion.Designer.cs">
+      <DependentUpon>FrmProgramacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProgramacionHecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProgramacionHecha.Designer.cs">
+      <DependentUpon>FrmProgramacionHecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRequicisionCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRequicisionCompra.Designer.cs">
+      <DependentUpon>FrmRequicisionCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSede.Designer.cs">
+      <DependentUpon>FrmSede.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmServiciosTecnicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmServiciosTecnicos.Designer.cs">
+      <DependentUpon>FrmServiciosTecnicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmServicioTecnico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmServicioTecnico.Designer.cs">
+      <DependentUpon>FrmServicioTecnico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCheckListMantenimientoAire.resx">
+      <DependentUpon>FrmCheckListMantenimientoAire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCheckListMantenimientoComputo.resx">
+      <DependentUpon>FrmCheckListMantenimientoComputo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHojaVidaComputo.resx">
+      <DependentUpon>FrmHojaVidaComputo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHojaVidaEquipo.resx">
+      <DependentUpon>FrmHojaVidaEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHojaVidaGenerica.resx">
+      <DependentUpon>FrmHojaVidaGenerica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIndicadorComputo.resx">
+      <DependentUpon>FrmIndicadorComputo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIndicadorEquipo.resx">
+      <DependentUpon>FrmIndicadorEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoComputoActualizar.resx">
+      <DependentUpon>FrmMantenimientoComputoActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoComputoCorrectivo.resx">
+      <DependentUpon>FrmMantenimientoComputoCorrectivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoComputoInsertar.resx">
+      <DependentUpon>FrmMantenimientoComputoInsertar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoComputoPreventivo.resx">
+      <DependentUpon>FrmMantenimientoComputoPreventivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmmantenimientoEquipoActualizar.resx">
+      <DependentUpon>FrmmantenimientoEquipoActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoEquipoCorrectivo.resx">
+      <DependentUpon>FrmMantenimientoEquipoCorrectivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoEquipoInforme.resx">
+      <DependentUpon>FrmMantenimientoEquipoInforme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoEquipoInsertar.resx">
+      <DependentUpon>FrmMantenimientoEquipoInsertar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoEquipoPreventivo.resx">
+      <DependentUpon>FrmMantenimientoEquipoPreventivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoComputoInforme.resx">
+      <DependentUpon>FrmMantenimientoComputoInforme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoGenericoActualizar.resx">
+      <DependentUpon>FrmMantenimientoGenericoActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoGenericoInsertar.resx">
+      <DependentUpon>FrmMantenimientoGenericoInsertar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientosPreventivos.resx">
+      <DependentUpon>FrmMantenimientosPreventivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuPrincipal.resx">
+      <DependentUpon>FrmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPiezaActualizar.resx">
+      <DependentUpon>FrmPiezaActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPiezaInsertar.resx">
+      <DependentUpon>FrmPiezaInsertar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProgramacion.resx">
+      <DependentUpon>FrmProgramacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProgramacionHecha.resx">
+      <DependentUpon>FrmProgramacionHecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRequicisionCompra.resx">
+      <DependentUpon>FrmRequicisionCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSede.resx">
+      <DependentUpon>FrmSede.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmServiciosTecnicos.resx">
+      <DependentUpon>FrmServiciosTecnicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmServicioTecnico.resx">
+      <DependentUpon>FrmServicioTecnico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="LCC11">
+      <Guid>{EDCD5812-6A06-43C3-AFAC-46EF5D14E22C}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

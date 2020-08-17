@@ -1,0 +1,15 @@
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Release\Mantenimiento Carl Ros.exe
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\bin\Release\Mantenimiento Carl Ros.pdb
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento_Carl_Ros.FrmHojaVidaComputo.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento_Carl_Ros.FrmInicio.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento_Carl_Ros.FrmLogin.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento_Carl_Ros.FrmMenuPrincipal.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento_Carl_Ros.FrmProgramacion.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento_Carl_Ros.FrmSede.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento_Carl_Ros.FrmServicioTecnico.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento_Carl_Ros.Properties.Resources.resources
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento Carl Ros.exe
+C:\Users\E2CSPC02\Documents\MEGA\Mantenimiento Carl Ros\Mantenimiento Carl Ros\obj\x86\Release\Mantenimiento Carl Ros.pdb
